@@ -4,7 +4,7 @@
 
 I'm a **Senior Full Stack Developer** living in South Lake Tahoe, CA. I love building things but I think you already knew that.
 
-## What I work with
+## What I (typically) work with
 - **Frontend:** React, Next.js, TypeScript
 - **Backend:** Node, Express
 - **And so much more!**
